@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "Why did I decide to become a Software Engineer?"
+date:       2019-12-23 02:40:05 +0000
+permalink:  why_did_i_decide_to_become_a_software_engineer
+---
+
+
+### A Gut Feeling
+From a young age most individuals must seek to answer the question: "What will I be when I grow up?" For as long as I can remember chasing this answer, I have never felt solid ground under my feet while walking this long path. Every turn and step I have taken has been based on what feels right at the time, or rather what could eventually feel right. I picked up sports just because I needed to know. Swimming, wrestling, and rugby made up a formative part of my teenage years. Rugby then went on to become a passion of mine, however all the sports I tried taught me lessons and shaped my person. When it came to school I immersed myself in rigorous classes in the hopes of becoming the best student I could. I found some classes to be ridiculously interesting, and other to be quite the drag (practically unbareable). I had successes and failures, lows and highs, and grew through all these exeriences. After living to experience and experiment, I eventually hit a point in my teenage years that I would have to make a decision. This decision was going to be a fork in the road, that was not necessarily a path of no return, but was definetely a leap.
+### College  
+This was to (that) date this biggest decision I will have made in my life. Now, when I reflect on how I went about handling that decision I am a little shocked that I did things the way I did, but it was all based on a **gut feeling**. When I applied for university I only did so to Florida State University. I can't explain the logic begind this decision very well now, but at the time I knew I was all I wanted to do. I could feel it in my gut. I only sent out an application to this university, with my back up plan being to attend the local state college for two years before figuring out the next step. A few months rolled around and it was the time for find out if I got in or not. I opened the letter (email) and recieved the news "You've been Accepted!" The gut feeling had carried me to this point and I can say thats one of the moments in life that I really felt happy. I felt satisfied, ready, and that I was doing the right thing for myself. 
+### Where did the Gut Feeling Go
+So fastforward to college graduation. My academics were a tasting buffet of classes that found me through multiple majors and finally graduating with a degree in Family and Child Sciences. Except when I looked down at my feet, the ground was no longer solid, that gut feeling had disappeared, and I was left wondering what comes next. I believe to live your life you first have to believe in where you want to go, but I had no idea. I felt lost. Over the past three years I have been working as a high school Environmental Science teacher. Just like the sports early on in my life, this experience has shaped me and given me memories I will value for a lifetime. But I never had that gut feeling that this is what I want. That this is what I should be doing. That this is right. So I explored new ideas and career paths. There had to be something new. 
+### And then it Hit Me
+One day my college roommate suggested to me, why not coding? The field was something I had always been aware of and knew existed. And the more I thought, the more a feeling began to weigh on me. This feeling was like a gravity, a want, a need to explore and learn more. From that day this pull has gripped me and reminded me what it feels like to do what feels right. Coding would be a leap of faith and still is, but with this leap I also am filled with a hope. So here I am. Why did I decide to walk the path towards software engineering? 
+###### A gut feeling and a leap of faith.
+
+
