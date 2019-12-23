@@ -1,11 +1,11 @@
 # Site settings
-author: Zachary Sciscente
-title: 
+author: Zachary Sciscente 
+title: Why Did You Decide to Study Software Engineering?
 header-img: img/home-bg.png
 email: zsciscente@gmail.com
-copyright_name: Zachary Sciscente
+copyright_name: Zachary Sciscente 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Turn in the Right Direction
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zsciscente
